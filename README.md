@@ -1,4 +1,4 @@
-# python-labs
+# python-Intro
 SRU : Python Intro
 
 <div dir="rtl">
